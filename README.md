@@ -1,5 +1,6 @@
 # DigitRecognitionOCR
 Final project for Intro to AI (CSCI 4150) at RPI. Spring 2019.
+
 Run the Perceptron Learning Algorithm on the dataset of handwritten digits:
 ```
 python dataClassifier.py -c perceptron --autotune
